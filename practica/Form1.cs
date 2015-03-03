@@ -32,13 +32,16 @@ namespace practica
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Vector vec = new Vector(0,0,Color.Yellow,Grafico,VentanaP);
-            vec.encender();
+            Vector vector = new Vector(0, 0,Color.Red, Grafico, VentanaP );
+            vector.encender();            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            Segmento seg = new Segmento(1, 1, 1, 7, Color.Blue, Grafico, VentanaP);
+            seg.encender();
         }
     }
 }
+
+/*NUEVOOOOOOOOOOOOO*/
