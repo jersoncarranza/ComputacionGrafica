@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\bin\Debug\practica.exe.config
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\bin\Debug\practica.exe
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\bin\Debug\practica.pdb
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\obj\Debug\practica.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\obj\Debug\practica.Form1.resources
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\obj\Debug\practica.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\obj\Debug\practica.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\obj\Debug\practica.exe
+c:\users\lucas\documents\visual studio 2012\Projects\practica\practica\obj\Debug\practica.pdb
